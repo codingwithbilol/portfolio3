@@ -1,0 +1,50 @@
+.medisin{
+    width: 573px;
+    height: 170px;
+    flex-shrink: 0;
+    color: #000;
+font-family: Montserrat;
+font-size: 42px;
+font-style: normal;
+font-weight: 700;
+line-height: 130%; /* 54.6px */
+margin-left: 140px;
+margin-top: 50px;
+}
+.et400 {
+    color: #8C8C8C;
+font-family: Montserrat;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 21px */
+width: 563px;
+margin-left: 140px;
+margin-top: -18px;
+}
+.button{
+    display: flex;
+width: 182px;
+height: 60px;
+padding: 2px 40px;
+justify-content: center;
+align-items: center;
+gap: 10px;
+flex-shrink: 0;
+border: none;
+border-radius: 74px;
+background: linear-gradient(0deg, #292929 0%, #292929 100%), #FFF;
+box-shadow: 2px 15px 30px 0px rgba(82, 82, 82, 0.15);
+color: #FFF;
+font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 150%; /* 24px */
+margin-left: 140px;
+margin-top: 24px;
+}
+.vector{
+    margin-left: 760px;
+    margin-top: -420px;
+}

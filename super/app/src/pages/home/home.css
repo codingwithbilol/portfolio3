@@ -1,0 +1,110 @@
+.container{
+ background-image: url("../../../public/images/Vector\ 19.png");
+ margin-left: 20px;
+ width: 1440px;
+height: 145px;
+flex-shrink: 0;
+}
+.medic{
+margin-left: 120px;
+padding-top: 33px;
+}
+.hi_tech{
+    color: #FFF;
+font-family: Montserrat;
+font-size: 28px;
+font-style: normal;
+font-weight: 600;
+line-height: 100%; /* 28px */
+text-transform: uppercase;
+margin-top: -90px;
+margin-left: 245px;
+width: 140px;
+}
+.about {
+    color:#FFF;
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 24px */
+    margin-top: -80px;
+    margin-left: 712px;
+}
+.short{
+    width: 28px;
+    margin-left: 730px;
+    margin-top: -16px;
+}
+.catalog {
+    color: rgba(245, 245, 245, 0.70);
+    font-family: Montserrat;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 24px */
+    margin-left: 798px;
+    margin-top: -35px;
+}
+.about_us{
+    color: rgba(255, 255, 255, 0.70);
+font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 24px */
+margin-left: 883px;
+margin-top: -40px;
+display: flex;
+}
+.news{
+    color: rgba(255, 255, 255, 0.70);
+font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 24px */
+}
+.news{
+    margin-left: 973px;
+    margin-top: -47px;
+}
+.blog{
+    color: rgba(255, 255, 255, 0.70);
+font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 24px */
+margin-left: 1065px;
+margin-top: -40px;
+}
+.contacts{
+    color: rgba(255, 255, 255, 0.70);
+font-family: Montserrat;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 24px */
+margin-left: 1125px;
+margin-top: -40px;  
+}
+.flag{
+    display: flex;
+    margin-left: 1238px;
+    margin-top: -44px;
+}
+.rus{
+    margin-top: 3px;
+    margin-left: 5px;
+    color: #FFF;
+    font-family: Lato;
+font-size: 16px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%; /* 24px */
+}
+.dropdown_1{
+    margin-left: -4px;
+    margin-top: 5px;
+}

@@ -1,0 +1,184 @@
+.first_card_title{
+    color: #292929;
+font-family: Montserrat;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 130%; /* 31.2px */
+width: 354px;
+height: 94px;
+flex-shrink: 0;
+margin-left: 37px;
+padding-top: 28px;
+}
+.first_card_text {
+    margin-left: 36px;
+    margin-top: -42px;
+    mix-blend-mode: multiply;
+    color: #8C8C8C;
+font-family: Montserrat;
+font-size: 12px;
+font-style: normal;
+font-weight: 400;
+line-height: 150%; /* 18px */
+width: 312px;
+height: 99px;
+flex-shrink: 0;
+}
+.first_card_icon {
+    display: flex;
+width: 22.967px;
+height: 22.967px;
+justify-content: center;
+align-items: center;
+width: 11.53px;
+height: 14.354px;
+transform: rotate(1deg);
+flex-shrink: 0;
+display: flex;   
+padding: 1.981px 1.545px 1.456px 1.067px;
+flex-shrink: 0;
+border-radius: 22px;
+background: #292929;
+width: 38.867px;
+height: 38.867px;
+margin-left: 35px;
+margin-top: 16px;
+}
+
+.first_card {
+    position: relative;
+    border-radius: 40px;
+background: #87B7FF;
+width: 581px;
+height: 295px;
+flex-shrink: 0;
+margin-left: 140px;
+margin-top: 57px;
+}
+.rakvina{
+    position: relative;
+    margin-left:1069px;
+    margin-top: -200px;
+}
+.second_card_title {
+    color: #292929;
+font-family: Montserrat;
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: 130%; /* 31.2px */
+width: 328px;
+height: 61px;
+flex-shrink: 0;
+margin-left: 37px;
+padding-top: 30px;
+}
+.second_card_text {
+    color: #8C8C8C;
+    font-family: Montserrat;
+    font-size: 12px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%; /* 18px */
+    mix-blend-mode: multiply;
+    width: 330px;
+height: 83px;
+flex-shrink: 0;
+margin-left: 36px;
+margin-top: -10px;
+}
+.second_card {
+    position: relative;
+    margin-left: 759px;
+    margin-top: -320px;
+    border-radius: 40px;
+background: #BDFF00;
+width: 581px;
+height: 295px;
+flex-shrink: 0; 
+}
+.second_card_icon {
+    display: flex;
+    width: 22.967px;
+    height: 22.967px;
+    justify-content: center;
+    align-items: center;
+    width: 11.53px;
+    height: 14.354px;
+    transform: rotate(1deg);
+    flex-shrink: 0;
+    display: flex;   
+    padding: 1.981px 1.545px 1.456px 1.067px;
+    flex-shrink: 0;
+    border-radius: 22px;
+    background: #292929;
+    width: 38.867px;
+    height: 38.867px;
+    margin-left: 35px;
+    margin-top: 16px;
+}
+.jarroh{
+ margin-left: 625px;
+ margin-top: -187px;
+}
+.second_card_icon{
+    margin-top: 32px;
+}
+.left_arrow{
+    border-radius: 22px;
+background: #292929;
+width: 38.867px;
+height: 38.867px;
+flex-shrink: 0;
+margin-left: 37px;
+margin-top: 6px;
+}
+.left{
+    padding-top: 4px;
+}
+.see_more{
+    mix-blend-mode: multiply;
+    color: #8C8C8C;
+font-family: Montserrat;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%; /* 21px */
+width: 72px;
+height: 19px;
+flex-shrink: 0;
+margin-left: 37px;
+margin-top: -23px;
+}
+.img_1{
+    margin-left: 360px;
+    margin-top: -260px;
+}
+.left_arrow_1{
+    border-radius: 22px;
+    background: #292929;
+    width: 38.867px;
+    height: 38.867px;
+    flex-shrink: 0;
+    margin-left: 37px;
+    display: flex;
+    margin-top: 33px;
+}
+.left_1{
+    margin-top: 4px;
+}
+.see_more_1{
+    mix-blend-mode: multiply;
+    color: #8C8C8C;
+font-family: Montserrat;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 150%; /* 21px */
+width: 72px;
+height: 19px;
+flex-shrink: 0;
+margin-left: 14px;
+margin-top:10px;
+}
